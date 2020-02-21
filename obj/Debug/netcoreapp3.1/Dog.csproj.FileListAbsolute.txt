@@ -1,0 +1,11 @@
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/obj/Debug/netcoreapp3.1/Dog.csprojAssemblyReference.cache
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfoInputs.cache
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfo.cs
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog.deps.json
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.json
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.dev.json
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog.dll
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/bin/Debug/netcoreapp3.1/Dog.pdb
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/obj/Debug/netcoreapp3.1/Dog.dll
+/Users/masonjenkins/OneDrive - University of Missouri/SP2020/IT2040/Module 4/Dog/obj/Debug/netcoreapp3.1/Dog.pdb
